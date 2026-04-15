@@ -2,7 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Hi,+I'm+Tiago+Torrado+👋;Software+Developer;" alt="Typing SVG" />
 </p>
 
-gineering to data analysis. Below you'll find my featured projects and the technologies I've been working with.
+<p align="center">
+  <em>
+    "I enjoy tackling complex challenges through code, exploring a wide range of fields from software engineering to data analysis. Feel free to check out my featured projects pinned below!"
+  </em>
 </p>
 
 ---
